@@ -43,7 +43,7 @@ export const projects = [
         name: "Stranger Things: Fan Page",
         description: "Unofficial fan page for the Stranger Things series",
         technologies: "HTML, CSS, JavaScript",
-        image: "public%20assets/stranger%20things.png", // Replace with image path if available
+        image: "public%20assets/strangerthings.png", // Replace with image path if available
         image_bg: "#222222", // Dark color for background
         url: "", // Add project URL if available (if applicable)
       },
