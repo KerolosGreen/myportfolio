@@ -97,6 +97,7 @@
 @media only screen and (max-width: 600px) {
     .Work-project{
         height: 300px;
+        width:80%;
     }
     .Work-project-inside {
       flex-direction: column-reverse;
