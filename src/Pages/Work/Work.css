@@ -35,7 +35,7 @@
     transition: ease-in-out .225s;
 }
 .Work-project:hover{
-    transform: scale(1.02);
+    transform: scale(1.02) !important;
     box-shadow: rgba(255, 255, 255, 0.175) 0px 0px 10px 1px;
     cursor: pointer;
 }
