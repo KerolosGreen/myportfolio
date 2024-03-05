@@ -83,6 +83,7 @@
     }
     .About-information{
         margin: 30px auto;
+        width: 85%;
     }
     .About-information h1{
         font-size: 29px;
