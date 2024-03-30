@@ -1,5 +1,5 @@
 /* @import url('https://fonts.cdnfonts.com/css/ballet'); */
-@import url('https://fonts.cdnfonts.com/css/butter-pineapple');
+/* @import url('https://fonts.cdnfonts.com/css/butter-pineapple'); */
 nav{
     background-color: #12121217;
     backdrop-filter: blur(2px);
@@ -19,7 +19,7 @@ nav{
     flex: 1;
     font-weight: 600;
     font-size: 16px;
-    font-family: Butter Pineapple , sans-serif;
+    font-family: Matter , sans-serif;
     display: flex;
     align-items: center;
 }
