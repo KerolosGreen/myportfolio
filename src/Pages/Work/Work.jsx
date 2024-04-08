@@ -26,10 +26,10 @@ function Work(){
                             <div className='Work-project-inside-image' style={{backgroundColor:project.image_bg}}>
                             <img src={project.image} />
                             </div>
-                            </a>
+                            
     
                         </div>
-                    </div>
+                    </div></a>
                 )}
                 )}
                 
