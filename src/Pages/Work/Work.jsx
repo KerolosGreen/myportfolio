@@ -15,6 +15,7 @@ function Work(){
                 {projects.map(
                     (project)=>{
                         return(
+                            <a href="{project.url}" target="_blank">
                         <div className='Work-project' data-aos="zoom-in" data-aos-delay="100" data-aos-once="true">
                         <div className='Work-project-inside'>
                             <div className='Work-project-inside-information'>
@@ -25,6 +26,7 @@ function Work(){
                             <div className='Work-project-inside-image' style={{backgroundColor:project.image_bg}}>
                             <img src={project.image} />
                             </div>
+                            </a>
     
                         </div>
                     </div>
