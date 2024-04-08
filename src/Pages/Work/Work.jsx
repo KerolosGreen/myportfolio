@@ -15,7 +15,7 @@ function Work(){
                 {projects.map(
                     (project)=>{
                         return(
-                            {project.url==""?<a href=project.url target="_blank">:null}
+                            {project.url!=""?<a href=project.url target="_blank">:null}
                         <div className='Work-project' data-aos="zoom-in" data-aos-delay="100" data-aos-once="true">
                         <div className='Work-project-inside'>
                             <div className='Work-project-inside-information'>
@@ -30,7 +30,7 @@ function Work(){
     
                         </div>
                     </div>
-                            {project.url==""?</a>:null}
+                            {project.url!=""?</a>:null}
                 )}
                 )}
                 
