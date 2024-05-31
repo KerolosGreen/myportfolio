@@ -16,6 +16,14 @@ export const projects = [
         url:"https://kerolos-weather-app.vercel.app/",
     },
     {
+        name:"Chat Web App",
+        description:"Enables Instant Messaging with Real-Time Updates and Interactive Features",
+        technologies:"ReactJS, NodeJS , Socket.io",
+        image:"public%20assets/web-chat-app.png",
+        image_bg:"#ede1be",
+        url:"https://kerolos-web-chat.vercel.app/",
+    },
+    {
         name: "Green's Songs Project",
         description: "Share & manage favorite songs",
         technologies: "Html , Css , Js , MYSQL , PHP , Bootstrap",
