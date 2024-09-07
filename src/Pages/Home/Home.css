@@ -29,6 +29,12 @@
     display:none;
     width:90%;
 }
+.backgroundpattern{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    z-index: -100;
+}
 @media only screen and (max-width: 600px) {
   .ReadMeImg{
     display:none;
