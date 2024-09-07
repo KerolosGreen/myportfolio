@@ -12,7 +12,7 @@ function Home(){
             <button data-aos="zoom-out" data-aos-delay="150" data-aos-once="true" className='resume-button'>My Resume</button>
             </a>
 
-            <img className="ReadMeImg" data-aos="fade-down" data-aos-delay="150" data-aos-once="true" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Github-Kerolos_ReadmeImage.png"/>
+            <img className="ReadMeImg" data-aos="fade-down" data-aos-delay="150" data-aos-once="true" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Github-Kerolos_ReadmeImage-1.png"/>
             <img className="ReadMeImgMobile" data-aos="fade-down" data-aos-delay="150" data-aos-once="true" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Portfolio%20Mobile%20ReadMEIMG-4.png"/>
             <Work/>
 {/*             <img src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Github-Kerolos_ReadmeImage.png" style={{width: '80%'}}/> */}
