@@ -22,12 +22,19 @@
   width: 100px;
 }
 .ReadMeImg{
+    display:block;
     width:85%;
 }
-
+.ReadMeImgMobile{
+    display:none;
+    width:90%;
+}
 @media only screen and (max-width: 600px) {
   .ReadMeImg{
-    width:100%;
+    display:none;
+}
+.ReadMeImgMobile{
+    display:block;
 }
 }
 
