@@ -6,6 +6,7 @@ function About(){
         <div className='About'>
             <div className='About-information' data-aos="fade-right" data-aos-delay="100" data-aos-once="true">
             <h1>Hello , I'm Kerolos Safwat</h1>
+                <img src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/spiral.png"/>
             {/* <h2>an enthusiastic Fullstack Web Developer with a passion for building dynamic web applications. I leverage my skills in front-end (HTML, CSS, JavaScript) and back-end development (Node.js, Express.js) to create user-friendly and efficient solutions. Currently pursuing a degree in Computer Science with a focus on Artificial Intelligence, I'm eager to learn and contribute to challenging projects.</h2> */}
             <h2>an enthusiastic Fullstack Web Developer passionate about crafting user-friendly web applications. I leverage my expertise in both front-end and back-end development, utilizing React.js, a popular JavaScript library, and incorporating various hooks for efficient state management and component interactions. Additionally, I employ styling libraries like Tailwind CSS and Bootstrap to ensure consistent and responsive design across different platforms.
 
