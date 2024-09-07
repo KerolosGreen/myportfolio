@@ -13,7 +13,7 @@ function Home(){
             </a>
             <img className="backgroundpattern" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/387b4b4135db22881cd42168d2771fabc8d285b6/public/public%20assets/spiral.svg"/>
             <img className="ReadMeImg" data-aos="fade-down" data-aos-delay="150" data-aos-once="true" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/linkedinimg4.png"/>
-            <img className="ReadMeImgMobile" data-aos="fade-down" data-aos-delay="150" data-aos-once="true" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Portfolio%20Mobile%20ReadMEIMG-4.png"/>
+            <img className="ReadMeImgMobile" data-aos="fade-down" data-aos-delay="150" data-aos-once="true" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Portfolio%20Mobile%20ReadMEIMG-5.png"/>
             <Work/>
 {/*             <img src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Github-Kerolos_ReadmeImage.png" style={{width: '80%'}}/> */}
         </div>
