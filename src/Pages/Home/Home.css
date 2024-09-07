@@ -21,9 +21,15 @@
   top: 0;
   width: 100px;
 }
+.ReadMeImg{
+    width:85%;
+}
 
-
-
+@media only screen and (max-width: 600px) {
+  .ReadMeImg{
+    width:100%;
+}
+}
 
 /************/
 .resume-button {
