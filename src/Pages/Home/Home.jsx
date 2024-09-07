@@ -11,6 +11,7 @@ function Home(){
             <button data-aos="zoom-out" data-aos-delay="150" data-aos-once="true" className='resume-button'>My Resume</button>
             </a> */}
             <Work/>
+            <img src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Github-Kerolos_ReadmeImage.png"/>
         </div>
     )
 }
