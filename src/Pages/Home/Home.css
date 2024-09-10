@@ -24,6 +24,7 @@
 .ReadMeImg{
     display:block;
     width:85%;
+    border-radius:15px;
 }
 .ReadMeImgMobile{
     display:none;
