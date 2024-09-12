@@ -35,7 +35,7 @@ export const projects = [
         name: "Central Perk Gallery",
         description: "Curate & share images",
         technologies: "HTML, CSS, JS, Bootstrap, MySQL, PHP",
-        image: "https://res.cloudinary.com/dkhwf2eep/image/upload/v1726104646/centralperkgallery_smx7wf.png", // Replace with image path if available
+        image: "public%20assets/centralperkgallery-min.png", // Replace with image path if available
         image_bg: "#c62828", // Red color for background
         url: "https://centralperkgallery.000webhostapp.com/index.php",
       },
