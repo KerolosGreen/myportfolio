@@ -8,6 +8,7 @@ export const projects = [
         image_bg:"#E8E6D1",
         url:"https://web-frame-seven.vercel.app",
     },
+    {
         name:"Wasalny",
         description:"Wasalny - Simplifying Metro Travel for Egyptian Passengers",
         technologies:"ReactJS",
