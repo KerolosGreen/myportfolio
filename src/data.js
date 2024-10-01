@@ -1,6 +1,6 @@
 export const projects = [
-    {
-        name:"Web Frame",
+{
+    name:"Web Frame",
         description:"Web Frame captures high-quality, customizable website screenshots for designers and developers.
 ",
         technologies:"ReactJS, NodeJs, Axios, Tailwind, Puppeteer",
@@ -8,6 +8,7 @@ export const projects = [
         image_bg:"#E8E6D1",
         url:"https://web-frame-seven.vercel.app",
     },
+    
     {
         name:"Wasalny",
         description:"Wasalny - Simplifying Metro Travel for Egyptian Passengers",
