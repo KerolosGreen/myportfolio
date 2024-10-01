@@ -2,7 +2,7 @@ export const projects = [
      {
         name:"Web Frame",
         description:"Web Frame captures high-quality, customizable website screenshots for designers and developers.",
-        technologies:"ReactJS, NodeJs, Axios, Tailwind, Puppeteer",
+        technologies:"ReactJS,Tailwind ,NodeJs, Axios, Puppeteer",
         image:"public%20assets/scr-782155775.png",
         image_bg:"#E8E6D1",
       url:"https://web-frame-seven.vercel.app",
