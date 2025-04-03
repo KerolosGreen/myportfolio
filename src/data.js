@@ -5,7 +5,7 @@ export const projects = [
         technologies:"NextJs, ReactJS, Tailwind",
         image:"public%20assets/ehjzlee.png",
         image_bg:"#00a96e",
-      url:"https://ehjzlee.com/",
+        url:"https://ehjzlee.com/",
     },
      {
         name:"Oulabitex",
@@ -13,7 +13,7 @@ export const projects = [
         technologies:"NextJs, Tailwind, Shadcn",
         image:"public%20assets/oulabitex.png",
         image_bg:"#004589",
-      url:"https://oulabitex.com/",
+        url:"https://oulabitex.com/",
     },
      {
         name:"Web Frame",
@@ -21,7 +21,7 @@ export const projects = [
         technologies:"ReactJS,Tailwind ,NodeJs, Axios, Puppeteer",
         image:"public%20assets/scr-782155775.png",
         image_bg:"#E8E6D1",
-      url:"https://web-frame-seven.vercel.app",
+        url:"https://web-frame-seven.vercel.app",
     },
     {
         name:"Wasalny",
