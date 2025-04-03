@@ -1,5 +1,21 @@
 export const projects = [
      {
+        name:"Ehjzlee",
+        description:"...",
+        technologies:"NextJs, ReactJS, Tailwind",
+        image:"public%20assets/ehjzlee.png",
+        image_bg:"#00a96e",
+      url:"https://ehjzlee.com/",
+    },
+     {
+        name:"Oulabitex",
+        description:"...",
+        technologies:"NextJs, Tailwind, Shadcn",
+        image:"public%20assets/oulabitex.png",
+        image_bg:"#004589",
+      url:"https://oulabitex.com/",
+    },
+     {
         name:"Web Frame",
         description:"Web Frame captures high-quality, customizable website screenshots for designers and developers.",
         technologies:"ReactJS,Tailwind ,NodeJs, Axios, Puppeteer",
