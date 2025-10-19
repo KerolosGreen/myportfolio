@@ -6,6 +6,7 @@ export const projects = [
         image:"public%20assets/ehjzlee.png",
         image_bg:"#00a96e",
         url:"https://ehjzlee.com/",
+          live : true
     },
      {
         name:"Oulabitex",
@@ -14,6 +15,7 @@ export const projects = [
         image:"public%20assets/oulabitex.png",
         image_bg:"#004589",
         url:"https://oulabitex.com/",
+          live : true
     },
      {
         name:"Web Frame",
@@ -90,3 +92,4 @@ export const projects = [
 ];
 
 export const About_image ='Kerolos.jpg';
+
