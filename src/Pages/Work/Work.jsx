@@ -22,6 +22,7 @@ function Work(){
                             <h2>{project.name}</h2>
                             <h4>{project.description}</h4>
                             <p>{project.technologies}</p>
+                            {project.live ? <div style={{display:'flex',justifyContent:'center',alignItems:'center',gap:5,position:'relative',top:5,left:5}}><p>Live</p> <img src='https://media.tenor.com/PGhfg5cSGM4AAAAj/red-circle.gif' width={12} height={12}/></div>: null}
                             </div>
                             <div className='Work-project-inside-image' style={{backgroundColor:project.image_bg}}>
                             <img src={project.image} />
@@ -54,3 +55,4 @@ function Work(){
     )
 }
 export default Work
+
