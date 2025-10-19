@@ -8,7 +8,7 @@ function Home(){
             <h1 data-aos="fade-right" data-aos-delay="150" data-aos-once="true">Hi , I'm Kerolos Safwat</h1>
             <p data-aos="fade-left" data-aos-delay="150" data-aos-once="true">And This Is My Portfolio</p>
             
-            <a href="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Kerolos Safwat FullStack - Resume.pdf">
+            <a href="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Kerolos-Resume.pdf">
             <button data-aos="zoom-out" data-aos-delay="150" data-aos-once="true" className='resume-button'>My Resume</button>
             </a>
             <img className="backgroundpattern" ata-aos="fade-right" data-aos-delay="150" data-aos-once="true" src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/387b4b4135db22881cd42168d2771fabc8d285b6/public/public%20assets/spiral.svg"/>
@@ -21,3 +21,4 @@ function Home(){
     )
 }
 export default Home
+
